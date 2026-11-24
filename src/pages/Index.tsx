@@ -67,9 +67,9 @@ Email: mahmudulmashrafe@gmail.com`;
         <img
           src={profileCover}
           alt="Mahmudul Mashrafe"
-          className="absolute inset-0 w-full h-full object-cover"
-          width={800}
-          height={512}
+          className="absolute inset-0 w-full h-full object-cover object-top"
+          width={807}
+          height={1024}
         />
 
         {/* Progressive blur overlay — starts from name section to bottom */}
